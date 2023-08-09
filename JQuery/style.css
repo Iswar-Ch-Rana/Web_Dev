@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+
+.big{
+    font-size: 10rem;
+    color: yellow;
+    font-family: cursive;
+}
